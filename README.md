@@ -3,7 +3,7 @@ positions in the UK and internationally.
 
 Portfolio in progress...
 
-##Contact Details:
+## Contact Details:
 j.ingledew@protonmail.com
 +44(0)7934177207
 
