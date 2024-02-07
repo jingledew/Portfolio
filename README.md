@@ -5,6 +5,8 @@ j.ingledew@protonmail.com
 
 +44(0)7934177207
 
+___
+
 ## Education
 - MSc. Climate Change Risk Management (Merit) - University of Exeter (2009-2010)
 
@@ -18,6 +20,8 @@ ___
 - Operational Support and GIS Assistant at SUEZ Recycling and Recovery UK (2017 - 2020)
 
 - Project Officer at the Royal Agricultural University, UK (2014 – 2016)
+
+___
 
 ## Projects
 
