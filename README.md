@@ -1,6 +1,3 @@
-Data and GIS professional with 8+ years of industry experience in diverse
-positions in the UK and internationally.
-
 # Portfolio in progress...
 
 ## Contact Details:
