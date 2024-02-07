@@ -27,12 +27,12 @@ Project Officer at the Royal Agricultural University, UK (09/2014 – 12/2016)
   Stanley Harbour kelp identification
     ![Kelp](https://github.com/jingledew/portfolio/raw/main/images/photo_3.jpg)
   Bone pile 3D models and fieldwork
-    ![Barren](https://github.com/jingledew/portfolio/raw/main/images/photo_6.jpg)
+    ![Barren](https://github.com/jingledew/portfolio/raw/main/images/photo_6.png)
   Black-browed Albatross Census, Beauchene Island
     ![Beauchene](https://github.com/jingledew/portfolio/raw/main/images/photo_1.jpg)
 ### Django WebApp
-  ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_4.jpg)
-  ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_5.jpg)
+  ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_4.png)
+  ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_5.png)
 ### Maritime Traffic
 
 ### Rurality Analysis
