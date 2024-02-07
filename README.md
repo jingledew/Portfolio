@@ -28,7 +28,7 @@ Project Officer at the Royal Agricultural University, UK (09/2014 – 12/2016)
   Bone pile 3D models and fieldwork
   
   Black-browed Albatross Census, Beauchene Island
-![Beauchene](/images/photo_1.jpg "Beauchene Albatross Survey")
+![Beauchene](https://github.com/jingledew/portfolio/raw/main/images/photo_1.jpg) "Beauchene Albatross Survey")
 ### Django WebApp
 
 ### Maritime Traffic
