@@ -40,3 +40,31 @@ Project Officer at the Royal Agricultural University, UK (09/2014 – 12/2016)
 ### Drive Times / Isochrones
 
 ### Data Visualisation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
