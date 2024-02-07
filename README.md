@@ -1,9 +1,7 @@
-#Jack Ingledew-Gale
-
 Data and GIS professional with 8+ years of industry experience in diverse
 positions in the UK and internationally.
 
-##Portfolio in progress...
+Portfolio in progress...
 
 ##Contact Details:
 j.ingledew@protonmail.com
