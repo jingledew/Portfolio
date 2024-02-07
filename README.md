@@ -24,13 +24,15 @@ Project Officer at the Royal Agricultural University, UK (09/2014 – 12/2016)
   Normalised Soil Moisture Index (NSMI) at Saladero Farm, Falkland Islands
 
 ### UAV Photogrammetry
-
+  Stanley Harbour kelp identification
+    ![Kelp](https://github.com/jingledew/portfolio/raw/main/images/photo_3.jpg)
   Bone pile 3D models and fieldwork
-  
+    ![Barre](https://github.com/jingledew/portfolio/raw/main/images/photo_6.jpg)
   Black-browed Albatross Census, Beauchene Island
-![Beauchene](https://github.com/jingledew/portfolio/raw/main/images/photo_1.jpg) "Beauchene Albatross Survey")
+    ![Beauchene](https://github.com/jingledew/portfolio/raw/main/images/photo_1.jpg)
 ### Django WebApp
-
+  ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_4.jpg)
+  ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_5.jpg)
 ### Maritime Traffic
 
 ### Rurality Analysis
