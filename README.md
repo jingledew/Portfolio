@@ -14,16 +14,14 @@ j.ingledew@protonmail.com
 ## Projects
 
 ### Earth Observation
-
-South Georgia glacial flour from LandSat7 ETM+ with Normalised Suspended Material Index (NMSI)
-
-Normalised Soil Moisture Index (NSMI) at Saladero Farm, Falkland Islands
+  
+  South Georgia glacial flour from LandSat7 ETM+ with Normalised Suspended Material Index (NMSI)
+  Normalised Soil Moisture Index (NSMI) at Saladero Farm, Falkland Islands
 
 ### UAV Photogrammetry
 
-Bone pile 3D models and fieldwork
-
-Black-browed Albatross Census, Beauchene Island
+  Bone pile 3D models and fieldwork
+  Black-browed Albatross Census, Beauchene Island
 
 ### Django WebApp
 
