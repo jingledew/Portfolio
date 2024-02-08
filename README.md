@@ -1,4 +1,3 @@
-# Portfolio in progress...
 
 ## Contact Details:
 j.ingledew@googlemail.com
