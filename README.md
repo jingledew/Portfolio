@@ -6,14 +6,14 @@ j.ingledew@googlemail.com
 
 ___
 
-## Education
+## Education:
 - MSc. Climate Change Risk Management (Merit) - University of Exeter (2009-2010)
 
 - BSc. (Hons) Geography with Earth System Science (2:1) - University of Exeter (2006-2009)
 
 ___
 
-## Work Experience
+## Work Experience:
 - GIS Officer and Database Manager at the South Atlantic Environmental Research Institute (2021 – Present)
 
 - Operational Support and GIS Assistant at SUEZ Recycling and Recovery UK (2017 - 2020)
@@ -22,7 +22,7 @@ ___
 
 ___
 
-## Projects
+## Projects:
 
 ### Earth Observation
   
@@ -33,15 +33,20 @@ ___
 ### UAV Photogrammetry
   Stanley Harbour kelp identification
     ![Kelp](https://github.com/jingledew/portfolio/raw/main/images/photo_3.jpg)
+    
   Bone pile 3D models and fieldwork
     ![Bones](https://github.com/jingledew/portfolio/raw/main/images/Photo_6.png)
+    
   Black-browed Albatross Census, Beauchene Island
     ![Beauchene](https://github.com/jingledew/portfolio/raw/main/images/photo_1.jpg)
+    
 ### Django WebApp
   ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_4.png)
   ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_5.png)
+  
 ### Maritime Traffic
   ![Berkeley Sound](https://github.com/jingledew/portfolio/raw/main/images/photo_7.jpg)
+  
 ### Rurality Analysis
 
 ### Drive Times / Isochrones
