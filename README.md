@@ -1,7 +1,7 @@
 Portfolio in progress...
 
 ## Contact Details:
-j.ingledew@protonmail.com
+j.ingledew@googlemail.com
 
 +44(0)7934177207
 
