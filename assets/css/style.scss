@@ -2,3 +2,14 @@
 ---
 
 @import "{{ site.theme }}";
+
+.heading-primary {
+  font-size: 2em;
+  font-weight: bold;
+  margin: 0;
+  padding: 1em;
+}
+
+h1.heading-primary {
+  /* further styles specific to h1 */
+}
