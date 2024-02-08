@@ -2,8 +2,6 @@
 ## Contact Details:
 j.ingledew@googlemail.com
 
-+44(0)7934177207
-
 ___
 
 ## Education:
