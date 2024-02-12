@@ -121,7 +121,7 @@ kbd {
 header {
   width: 400px;
   position: fixed;
-  right: 0; /* Anchors the header to the right side of the viewport */
+  right: 20%; /* Anchors the header to the right side of the viewport */
   top: 0; /* Adjust this value as needed to position it vertically */
   -webkit-font-smoothing: subpixel-antialiased;
 }
