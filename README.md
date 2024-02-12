@@ -53,6 +53,7 @@ ___
 ![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_9.jpg)
 
 ### Data Visualisation
+Successfully run an Etsy shop for fine art map prints. A PyQGIS script is used to clip raster elevation data by vector boundary files, before rendering through Blender to create a 3D visualisation of the data. Comissions for custom maps is quite a common occurrence, which has created the chance to experiment with different syles.
 ![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_10.jpg)
 
 
