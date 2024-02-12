@@ -30,10 +30,11 @@ ___
   Normalised Soil Moisture Index (NSMI) at Saladero Farm, Falkland Islands
 
 ### UAV Photogrammetry
-  Stanley Harbour kelp identification
+  Stanley Harbour kelp identification: A short contract to undertake a drone survey of part of Stanley Harbour for the Falkland Islands Maritime Authority. Giant kelp was identified using a DJI Phantom 4 with a multispectral camera, the Red-Edge orthomosaic depicted here provides a stark contrast between vegetation and surrounding waters. 
     ![Kelp](https://github.com/jingledew/portfolio/raw/main/images/photo_3.jpg)
     
   Bone pile 3D models and fieldwork
+  
     ![Bones](https://github.com/jingledew/portfolio/raw/main/images/Photo_6.png)
     
   Black-browed Albatross Census, Beauchene Island
