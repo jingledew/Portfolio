@@ -45,10 +45,12 @@ ___
   
 ### Maritime Traffic
   ![Berkeley Sound](https://github.com/jingledew/portfolio/raw/main/images/photo_7.jpg)
-  
-### Rurality Analysis
 
 ### Drive Times / Isochrones
+![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_8.jpg)
+
+### Rurality Analysis
+![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_9.jpg)
 
 ### Data Visualisation
 
