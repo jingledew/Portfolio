@@ -53,7 +53,7 @@ ___
 ![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_9.jpg)
 
 ### Data Visualisation
-
+![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_10.jpg)
 
 
 
