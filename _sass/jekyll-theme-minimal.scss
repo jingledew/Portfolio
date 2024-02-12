@@ -119,10 +119,11 @@ kbd {
 }
 
 header {
-  width:400px;
-  float:right;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+  width: 400px;
+  position: fixed;
+  right: 0; /* Anchors the header to the right side of the viewport */
+  top: 0; /* Adjust this value as needed to position it vertically */
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 ul.downloads {
