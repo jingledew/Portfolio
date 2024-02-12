@@ -33,14 +33,14 @@ ___
   Stanley Harbour kelp identification: A short contract to undertake a drone survey of part of Stanley Harbour for the Falkland Islands Maritime Authority. Giant kelp was identified using a DJI Phantom 4 with a multispectral camera, the Red-Edge orthomosaic depicted here provides a stark contrast between vegetation and surrounding waters. 
     ![Kelp](https://github.com/jingledew/portfolio/raw/main/images/photo_3.jpg)
     
-  Bone pile 3D models and fieldwork
-  
-    ![Bones](https://github.com/jingledew/portfolio/raw/main/images/Photo_6.png)
+  Bone pile 3D models and fieldwork: As part of a National Geographic funded PhD project, a photogrammetry survey of bone piles on George and Barren Islands was undertaken. This involved the collection of sea lion mandibles and peat cores for age dating. 
+  ![Bones](https://github.com/jingledew/portfolio/raw/main/images/Photo_6.png)
     
-  Black-browed Albatross Census, Beauchene Island
-    ![Beauchene](https://github.com/jingledew/portfolio/raw/main/images/photo_1.jpg)
+  Black-browed Albatross Census, Beauchene Island:  
+  ![Beauchene](https://github.com/jingledew/portfolio/raw/main/images/photo_1.jpg)
     
 ### Django WebApp
+  A custom database, build with the Django Python framework and a PostgreSQL back-end, allows for data collection and storage relating to seabird by-catch rates from fishing vessels. This is part of on-going work for the Agreement on the Conservation of Albatrosses and Petrels (ACAP) for the Joint Nature Conservation Committee (JNCC).
   ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_4.png)
   ![WebApp](https://github.com/jingledew/portfolio/raw/main/images/photo_5.png)
   
@@ -54,7 +54,7 @@ ___
 ![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_9.jpg)
 
 ### Data Visualisation
-Successfully run an Etsy shop for fine art map prints. A PyQGIS script is used to clip raster elevation data by vector boundary files, before rendering through Blender to create a 3D visualisation of the data. Comissions for custom maps is quite a common occurrence, which has created the chance to experiment with different syles.
+I run a successful Etsy shop for fine art map prints. A PyQGIS script is used to clip raster elevation data by vector boundary files, before rendering through Blender to create a 3D visualisation of the data. Comissions for custom maps is quite a common occurrence, which has created the chance to experiment with different syles.
 ![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_10.jpg)
 
 
