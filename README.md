@@ -8,7 +8,6 @@ ___
 
 ## Education:
 - MSc. Climate Change Risk Management (Merit) - University of Exeter (2009-2010)
-
 - BSc. (Hons) Geography with Earth System Science (2:1) - University of Exeter (2006-2009)
 
 ___
@@ -74,6 +73,14 @@ I run a successful Etsy shop for fine art map prints. A PyQGIS script is used to
 
 ![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_10.jpg)
 
+
+### Other GIS Work
+- Multi-Criteria Site Suitability Analysis (Windfarms)
+- Lidar Geoprocessing (Lastools + clip/ merge/ warp) 
+- Voronoi / Thessien Polygons
+- Nearest Neighbour
+- Spatial Joins
+- Digitising & Editing
 
 
 
