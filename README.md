@@ -22,10 +22,10 @@ ___
 - Consultant - UN / Government report for the state of the coastal environment in Perú (2013).
 - 6-Month Scientific Research Internship in Chilean Patagonia, Huinay Fundación (2012).
 
+### References:
+- Available on request
+ 
 ___
-
-## References:
-Available on request
 
 ## Projects:
 
