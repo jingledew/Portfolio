@@ -16,6 +16,10 @@ ___
 - GIS Officer and Database Manager at the South Atlantic Environmental Research Institute (2021 – Present)
 - Operational Support and GIS Assistant at SUEZ Recycling and Recovery UK (2017 - 2020)
 - Project Officer at the Royal Agricultural University, UK (2014 – 2016)
+- Owner of MapsByJack (Etsy) – 3D Data visualisation of raster data (2020 – Present) 
+- Climate Change Risk Resilience Consultant at Climate Vision (as and when basis: 2012-Present).
+- Consultant - UN / Government report for the state of the coastal environment in Perú (2013).
+- 6-Month Scientific Research Internship in Chilean Patagonia, Huinay Fundación (2012).
 
 ___
 
