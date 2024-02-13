@@ -2,7 +2,8 @@ Portfolio under construction...
 
 ___
 
-Contact Details: j.ingledew@googlemail.com
+### Contact Details: j.ingledew@googlemail.com
+
 ___
 
 ## Education:
