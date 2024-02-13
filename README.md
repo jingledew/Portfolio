@@ -14,12 +14,13 @@ ___
 
 ## Work Experience:
 - GIS Officer and Database Manager at the South Atlantic Environmental Research Institute (2021 – Present)
-
 - Operational Support and GIS Assistant at SUEZ Recycling and Recovery UK (2017 - 2020)
-
 - Project Officer at the Royal Agricultural University, UK (2014 – 2016)
 
 ___
+
+## References:
+Available on request
 
 ## Projects:
 
@@ -40,7 +41,8 @@ ___
   
   ![Bones](https://github.com/jingledew/portfolio/raw/main/images/Photo_6.png)
     
-  Black-browed Albatross Census, Beauchene Island:  
+  Black-browed Albatross Census, Beauchene Island:
+  Piloting from a small rib in the swell of the South Atlantic Ocean certainly has its tricky moments! Multi-day census conducted with no drones lost at sea.
   ![Beauchene](https://github.com/jingledew/portfolio/raw/main/images/photo_1.jpg)
 
 ___
@@ -54,7 +56,7 @@ ___
 ___
 
 ### Maritime Traffic
-
+As part of an Environmental Impact Survey for a multinational oil and gas company, I undertook a traffic hotspot analysis of all vessels mooring within Berkeley Sound. This was completed by running a few SQL spatial queries in PostGIS to filter out any unwanted data, followed by a 100m hexibin heatmap count. This map provided a good insight as to where vessels are mooring in relation to planned sites for the operations.
   ![Berkeley Sound](https://github.com/jingledew/portfolio/raw/main/images/photo_7.jpg)
 
 ___
