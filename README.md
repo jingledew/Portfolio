@@ -60,13 +60,10 @@ ___
 
 ___
 
-### Drive Times / Isochrones
+### Drive Times / Isochrones & Rurality Analysis
+As part of the bid development team at SUEZ, one task was to understand the local authorities that the company was targeting. I introduced the practice of conducting drive time analysis from depots, including the percentage of households within each time band. From this it was possible to get a better understanding of the geography of the area. This led to improved resource and financial modelling, creating a successful bid for the largest residual and recycling contract in England. This practice then became standard at SUEZ for all future bids.
 
 ![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_8.jpg)
-
-___
-
-### Rurality Analysis
 
 ![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_9.jpg)
 
