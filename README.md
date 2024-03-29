@@ -86,6 +86,10 @@ I run a successful Etsy shop for fine art map prints. A PyQGIS script is used to
 
 ![Isochrones](https://github.com/jingledew/portfolio/raw/main/images/photo_10.jpg)
 
+### Articles and Reports
+
+[![Alt text for the image]](https://www.sainthelena.gov.sh/2022/news/saeri-group-visit-to-st-helena-for-dplus-nca-project-and-move-on-south-atlantic-anchor-project/)
+
 
 ### Other GIS Work
 - Multi-Criteria Site Suitability Analysis (Windfarms)
