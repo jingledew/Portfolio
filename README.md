@@ -88,7 +88,7 @@ I run a successful Etsy shop for fine art map prints. A PyQGIS script is used to
 
 ### Articles and Reports
 
-![Delivering GIS training for the St. Helena Government](https://www.sainthelena.gov.sh/2022/news/saeri-group-visit-to-st-helena-for-dplus-nca-project-and-move-on-south-atlantic-anchor-project/)
+[Delivering GIS training for the St. Helena Government](https://www.sainthelena.gov.sh/2022/news/saeri-group-visit-to-st-helena-for-dplus-nca-project-and-move-on-south-atlantic-anchor-project/)
 
 
 ### Other GIS Work
