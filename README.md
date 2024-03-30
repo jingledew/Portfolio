@@ -89,9 +89,8 @@ I run a successful Etsy shop for fine art map prints. A PyQGIS script is used to
 ### Articles and Reports
 
 - [Darwin Plus Local: Increasing environmental monitoring capacity with a thermal imaging UAV (2024)](https://www.south-atlantic-research.org/increasing-environmental-monitoring-capacity-on-fi-a-thermal-imaging-uav-dpl00047/)
-
-- 
 - [Delivering GIS training for the St. Helena Government (2022)](https://www.sainthelena.gov.sh/2022/news/saeri-group-visit-to-st-helena-for-dplus-nca-project-and-move-on-south-atlantic-anchor-project/)
+- [Carbon Logic Footsteps (2015)](https://climatevision.co.uk/wp-content/uploads/2020/10/Carbon-Logic-Footsteps-Report-2015.pdf)
 
 
 
