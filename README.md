@@ -98,7 +98,6 @@ I run a successful Etsy shop for fine art map prints. A PyQGIS script is used to
 - Multi-Criteria Site Suitability Analysis (Windfarms)
 - Lidar Geoprocessing (Lastools + clip/ merge/ warp) 
 - Voronoi / Thessien Polygons
-- Nearest Neighbour
 - Spatial Joins
 - Digitising & Editing
 
