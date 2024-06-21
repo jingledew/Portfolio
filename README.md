@@ -15,8 +15,8 @@ ___
   
   Normalised Difference Vegetation and Moisture Index (NDVI/NDMI) at Saladero Farm, Falkland Islands
   
-  ![NDVI](https://github.com/jingledew/portfolio/raw/main/images/photo_11.gif)
-  ![NSMI](https://github.com/jingledew/portfolio/raw/main/images/photo_12.gif)
+  ![NDVI](https://github.com/jingledew/portfolio/raw/main/images/photo_11.gif) ![NSMI](https://github.com/jingledew/portfolio/raw/main/images/photo_12.gif)
+  
 ___
 
 ### UAV Photogrammetry
