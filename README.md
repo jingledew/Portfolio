@@ -7,34 +7,16 @@ j.ingledew@googlemail.com
 
 ___
 
-## Education:
-- MSc. Climate Change Risk Management (Merit) - University of Exeter (2009-2010)
-- BSc. (Hons) Geography with Earth System Science (2:1) - University of Exeter (2006-2009)
-
-___
-
-## Professional Experience:
-- GIS Officer and Database Manager at the South Atlantic Environmental Research Institute (2021 – Present)
-- Operational Support and GIS Assistant at SUEZ Recycling and Recovery UK (2017 - 2020)
-- Project Officer at the Royal Agricultural University, UK (2014 – 2016)
-- Owner of MapsByJack (Etsy) – 3D Data visualisation of raster data (2020 – Present) 
-- Climate Change Risk Resilience Consultant at Climate Vision (as and when basis: 2012-Present).
-- Consultant - UN / Government report for the state of the coastal environment in Perú (2013).
-- 6-Month Scientific Research Internship in Chilean Patagonia, Huinay Fundación (2012).
-
-### References:
-- Available on request
- 
-___
-
 ## Projects:
 
 ### Earth Observation
   
   South Georgia glacial flour from LandSat7 ETM+ with Normalised Suspended Material Index (NMSI)
   
-  Normalised Soil Moisture Index (NSMI) at Saladero Farm, Falkland Islands
-
+  Normalised Difference Vegetation and Moisture Index (NDVI/NDMI) at Saladero Farm, Falkland Islands
+  
+  ![NDVI](https://github.com/jingledew/portfolio/raw/main/images/photo_11.gif)
+  ![NSMI](https://github.com/jingledew/portfolio/raw/main/images/photo_12.gif)
 ___
 
 ### UAV Photogrammetry
@@ -93,7 +75,6 @@ I run a successful Etsy shop for fine art map prints. A PyQGIS script is used to
 - [Carbon Logic Footsteps (2015)](https://climatevision.co.uk/wp-content/uploads/2020/10/Carbon-Logic-Footsteps-Report-2015.pdf)
 
 
-
 ### Other GIS Work
 - Multi-Criteria Site Suitability Analysis (Windfarms)
 - Lidar Geoprocessing (Lastools + clip/ merge/ warp) 
@@ -101,8 +82,25 @@ I run a successful Etsy shop for fine art map prints. A PyQGIS script is used to
 - Spatial Joins
 - Digitising & Editing
 
+___
 
+## Education:
+- MSc. Climate Change Risk Management (Merit) - University of Exeter (2009-2010)
+- BSc. (Hons) Geography with Earth System Science (2:1) - University of Exeter (2006-2009)
 
+___
+
+## Professional Experience:
+- GIS Officer and Database Manager at the South Atlantic Environmental Research Institute (2021 – Present)
+- Operational Support and GIS Assistant at SUEZ Recycling and Recovery UK (2017 - 2020)
+- Project Officer at the Royal Agricultural University, UK (2014 – 2016)
+- Owner of MapsByJack (Etsy) – 3D Data visualisation of raster data (2020 – Present) 
+- Climate Change Risk Resilience Consultant at Climate Vision (as and when basis: 2012-Present).
+- Consultant - UN / Government report for the state of the coastal environment in Perú (2013).
+- 6-Month Scientific Research Internship in Chilean Patagonia, Huinay Fundación (2012).
+
+### References:
+- Available on request
 
 
 
