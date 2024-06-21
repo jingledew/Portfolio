@@ -12,10 +12,13 @@ ___
 ### Earth Observation
   
   South Georgia glacial flour from LandSat7 ETM+ with Normalised Suspended Material Index (NMSI)
+  ![Glaciers](https://github.com/jingledew/portfolio/raw/main/images/photo_16.jpg)
+  ![NSMI](https://github.com/jingledew/portfolio/raw/main/images/photo_15.jpg)
   
   Normalised Difference Vegetation and Moisture Index (NDVI/NDMI) at Saladero Farm, Falkland Islands
   
-  ![NDVI](https://github.com/jingledew/portfolio/raw/main/images/photo_11.gif) ![NSMI](https://github.com/jingledew/portfolio/raw/main/images/photo_12.gif)
+  ![NDVI](https://github.com/jingledew/portfolio/raw/main/images/photo_11.gif) 
+  ![NSMI](https://github.com/jingledew/portfolio/raw/main/images/photo_12.gif)
   
 ___
 
